@@ -11,5 +11,8 @@
 <!-- Some of the items may not apply. -->
 
 - [ ] Tests
-- [ ] Documentation
+- [x] Documentation
+- [x] Hardhat Integration
+
+
 
